@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+// exe 5+6 I execute it with printing function 
 void printAvgSumSquare(int num1, int num2){
     float sum = num1+num2;
     float avg = sum/2;
